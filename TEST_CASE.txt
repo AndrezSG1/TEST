@@ -1,22 +1,32 @@
-Test Case ID:  Test Case ID will be the test case number of story number in JIRA.
+Test Case ID:  
+Test Case ID will be the test case number of story number in JIRA.
 
-Test Case Description: The description will be a short description of the functionality.
+Test Case Description: 
+The description will be a short description of the functionality.
 
-Assumptions: Assumptions should be mentioned in the assumptions columns if any.
+Assumptions: 
+Assumptions should be mentioned in the assumptions columns if any.
 
-Test Data: Test Data is the data with which you are performing the testing.
+Test Data: 
+Test Data is the data with which you are performing the testing.
 
-Pre-condition: Pre-condition should be anything that is done before the execution of the test case.
+Pre-condition: 
+Pre-condition should be anything that is done before the execution of the test case.
 
-Test Steps: In Test Steps, you must mention steps like Login to application, Enter Username, and password, click the login button, Verify the page redirects to splash page.
+Test Steps: 
+In Test Steps, you must mention steps like Login to application, Enter Username, and password, click the login button, Verify the page redirects to splash page.
 
-Expected Result: The expected Result should indicate the behavior of the application after the execution of the test case.  For successful Login expected Result would be a redirection to the splash page.
+Expected Result: 
+The expected Result should indicate the behavior of the application after the execution of the test case.  For successful Login expected Result would be a redirection to the splash page.
 
-Actual Result: The actual Result indicates the actual behaviour of the application on the execution of the test case.
+Actual Result: 
+The actual Result indicates the actual behaviour of the application on the execution of the test case.
 
-Status: Status can be marked as passed or fail depending on the actual Result.
+Status: 
+Status can be marked as passed or fail depending on the actual Result.
 
-Comments: Last is the optional comments.
+Comments: 
+Last is the optional comments.
 
 
 
