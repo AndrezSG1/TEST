@@ -33,8 +33,6 @@ Last is the optional comments.
 
 How to write effective Test Cases
 
-Now, we have looked at the way test cases are written and how to optimize them. This mystery is still not solved yet. Let’s now dig into detail to write effective test cases.
-
     Always stick to user requirements and never write test cases on assumptions. Always stick to the SRS document or clear your doubts, if any, but never deviate to another lane while writing test cases.
     As we follow agile, it is very important to update yourself on the latest functionalities. Communicate as much you can with stakeholders and technical guys so that you can keep the SRS updated with agile dynamism.
     The test Case description should always be to the point so that it is very easy to segregate the test cases on functionality by just reading the Description.
