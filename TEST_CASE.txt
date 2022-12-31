@@ -1,0 +1,41 @@
+Test Case ID:  Test Case ID will be the test case number of story number in JIRA.
+
+Test Case Description: The description will be a short description of the functionality.
+
+Assumptions: Assumptions should be mentioned in the assumptions columns if any.
+
+Test Data: Test Data is the data with which you are performing the testing.
+
+Pre-condition: Pre-condition should be anything that is done before the execution of the test case.
+
+Test Steps: In Test Steps, you must mention steps like Login to application, Enter Username, and password, click the login button, Verify the page redirects to splash page.
+
+Expected Result: The expected Result should indicate the behavior of the application after the execution of the test case.  For successful Login expected Result would be a redirection to the splash page.
+
+Actual Result: The actual Result indicates the actual behaviour of the application on the execution of the test case.
+
+Status: Status can be marked as passed or fail depending on the actual Result.
+
+Comments: Last is the optional comments.
+
+
+
+
+How to write effective Test Cases
+
+Now, we have looked at the way test cases are written and how to optimize them. This mystery is still not solved yet. Let’s now dig into detail to write effective test cases.
+
+    Always stick to user requirements and never write test cases on assumptions. Always stick to the SRS document or clear your doubts, if any, but never deviate to another lane while writing test cases.
+    As we follow agile, it is very important to update yourself on the latest functionalities. Communicate as much you can with stakeholders and technical guys so that you can keep the SRS updated with agile dynamism.
+    The test Case description should always be to the point so that it is very easy to segregate the test cases on functionality by just reading the Description.
+    Always write test cases by mimicking yourself as a customer. Put yourself in the shoes of a customer, which will help you cover all test scenarios that a customer can execute.
+    Your test steps should be granular instead of writing lengthy, detailed test steps. They should be crisp and clear. If a step is big, break it into granular steps to make the test case easy to understand and execute for anyone.
+    Test Cases should be assigned to you if you have written them. Ownership of test cases is very important for the maintenance of test cases.
+    Use a test management tool to organize your test cases, test plan, test cycles, and reports. It will act as a common medium for all team members, and it will help you better manage your test cases.
+    It is very important to get the test cases reviewed by your team so that no duplicate test cases are written which help to get rid of unnecessary test cases.
+    Exploratory testing is very important to find bugs. So, it is very important to have a mindset of a critic in your mind while executing test cases so as not to miss important bugs.
+    Don’t have too many objectives in a test case. Always stick to the fact that a single test case will follow a single objective.
+    Prioritization of test cases is very important in crunch times. It is very you have a priority defined for your test cases so that you don’t miss your test cases when you have very little time left.
+    Learning automation and starting with the automation of manual test cases is equally important as this will reduce manual efforts and will help in finding a greater number of bugs. You must be thinking How to write test cases in java. You can use any automation tool like Selenium/ Cypress with Java to write your functional test cases. This can be integrated with reporting tools like TestNG, Allure, and Extent for amazing reports.
+    Always have cross-browser test cases so that no bugs are leaked to production.
+    One more thing you must be confused at the fact: Who writes UAT test cases? User acceptance testing is done by stakeholders in pre-prod and production. Hence, we leave this part for business analysts and stakeholders to have crucial test places in place by following the above steps.
